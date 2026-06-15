@@ -1,62 +1,59 @@
-# Hi, I'm Mohibul Alam 👋
+# Mohibul Alam
 
-🎓 Computer Science student at Queensborough Community College (CUNY)  
-🔬 Machine Learning Researcher | Predictive Modeling  
-🌎 Seeking Summer 2025 ML/Data Science Internship  
+**CS Undergraduate · ML Research · Queensborough Community College, CUNY**
 
----
-
-## What I'm Working On
-
-- 🧬 **Colorectal Cancer Risk Prediction** — ML research under Professor Zeynep Akcay Ozkan using the NIH All of Us dataset (19,000+ participants). Built Random Forest and XGBoost models achieving ROC-AUC of 0.759. Applying threshold tuning, SMOTE, and cross-validation.
-- 🌐 **Cancer Risk Web App** — Deploying my research model as a public web application using FastAPI + React so patients can assess their risk directly.
+I build machine learning systems for clinical decision-making. Currently working on colorectal cancer risk prediction using genomic and clinical data from the NIH All of Us Research Program, under Professor Zeynep Akcay Ozkan through the CUNY Research Scholars Program (CRSP).
 
 ---
 
-## Technical Skills
+## Research
 
-**Machine Learning:** scikit-learn, XGBoost, Random Forest, Logistic Regression, SMOTE  
-**Data:** pandas, NumPy, matplotlib, seaborn  
-**Languages:** Python, C++, JavaScript  
-**Web:** React, FastAPI, HTML/CSS  
-**Tools:** Git, GitHub, Jupyter Notebook  
+**Colorectal Cancer Risk Prediction Using Machine Learning**
 
----
+Built an XGBoost model integrating 31 clinical, socioeconomic, and germline genomic features to predict colorectal cancer risk. Engineered Lynch syndrome (14× enrichment) and APC (27× enrichment, p=0.000012) variant features from whole genome sequencing data. Deployed as a full-stack clinical decision support tool with real-time SHAP explanations.
 
-## Featured Projects
+Model: XGBoost v2 · AUC 0.8979 · 12,248 patients
+Repo: [colorectal-cancer-risk-prediction](https://github.com/mohibul-07/colorectal-cancer-risk-prediction)
+Live app: [colorectal-cancer-risk-prediction.vercel.app](https://colorectal-cancer-risk-prediction.vercel.app)
 
-| Project | Description | Stack |
-|---|---|---|
-| [Colorectal Cancer Risk Prediction](https://github.com/mohibul-07) | ML model predicting colorectal cancer risk using NIH data. ROC-AUC 0.759 | Python, sklearn, XGBoost |
-| [ML Classification Projects](https://github.com/mohibul-07) | Binary classification on MAGIC Telescope and Diabetes datasets using Random Forest, SMOTE, ROC curves | Python, sklearn, imblearn |
+Currently developing a polygenic risk score (PRS) pipeline using Hail on All of Us microarray data to further improve prediction accuracy.
+
+Presented at CURLI (April 2026).
 
 ---
 
-## Currently Learning
-- Building end-to-end ML web applications
-- Data Structures & Algorithms
-- Deep Learning fundamentals
+## Skills
+
+**ML / Data Science:** XGBoost, scikit-learn, SHAP, SMOTE, Logistic Regression, Random Forest, pandas, NumPy, matplotlib, seaborn
+
+**Genomics / Biomedical:** Hail, BigQuery (OMOP CDR), ClinVar variant annotation, PRS computation
+
+**Languages:** Python, Java, JavaScript, C++, SQL
+
+**Web / Deployment:** React, Vite, FastAPI, Vercel, Render
+
+**Networking:** Wireshark, Cisco Packet Tracer, VLANs, subnetting, RIPv2
+
+**Tools:** Git, GitHub, Jupyter, LaTeX
 
 ---
 
-## Let's Connect
-📧 alammohibul07@gmail.com
+## Currently Working On
+
+- Polygenic risk score integration into the CRC prediction model
+- Java + Data Structures & Algorithms (NeetCode 150, 13-week study plan)
+- Home network security monitoring lab (Wireshark, Zeek, Suricata)
 
 ---
 
-*"Learning by building. Every project is a step toward something real."*
+## Leadership
 
-<!--
-**mohibul-07/mohibul-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **President** — QCC Coding Club
+- **Vice President** — QCC Math Club
+- Dean's List · 3.4 GPA · CRSP Research Stipend Recipient
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+📧 mdmohibul.alam87@login.cuny.edu · [GitHub](https://github.com/mohibul-07)
