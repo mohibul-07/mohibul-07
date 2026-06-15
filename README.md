@@ -41,7 +41,7 @@ Presented at CURLI (April 2026).
 ## Currently Working On
 
 - Polygenic risk score integration into the CRC prediction model
-- Java + Data Structures & Algorithms (NeetCode 150, 13-week study plan)
+- Java + Data Structures & Algorithms.
 - Home network security monitoring lab (Wireshark, Zeek, Suricata)
 
 ---
