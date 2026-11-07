@@ -12,36 +12,36 @@ CS undergrad at Queensborough Community College (CUNY), working on ML and comput
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Microscope.webp" width="44" align="left" alt="microscope" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Microscope.webp" width="48" alt="microscope" /><br>
 <b><a href="https://github.com/mohibul-07/Pan-Cancer-Germline-Predisposition">Pan-Cancer Germline</a></b><br>
 61,044 people · 44 genes · 9 cancers. Replicated 20 of 21 TCGA findings and found 34 new gene-cancer links.
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" width="44" align="left" alt="rising chart" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" width="48" alt="rising chart" /><br>
 <b><a href="https://github.com/mohibul-07/colorectal-cancer-risk-prediction">CRC Risk Prediction</a></b><br>
 XGBoost + SHAP on 12,248 patients · AUC 0.898 · <a href="https://colorectal-cancer-risk-prediction.vercel.app">live app</a>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20With%20Wings.webp" width="44" align="left" alt="money with wings" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20With%20Wings.webp" width="48" alt="money with wings" /><br>
 <b><a href="https://github.com/mohibul-07/AOU_Cost_Effeciency_Engine">AoU Cost Engine</a></b><br>
 Know what a BigQuery query costs before you run it · <a href="https://aou-cost-effeciency-engine.vercel.app">live app</a>
 </td>
 <td valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" width="44" align="left" alt="video game controller" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" width="48" alt="video game controller" /><br>
 <b><a href="https://github.com/mohibul-07/GenoDrift_Game_build">GenoDrift</a></b><br>
 A 2D game for exploring a genome
 </td>
 </tr>
 <tr>
 <td valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" width="44" align="left" alt="books" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" width="48" alt="books" /><br>
 <b><a href="https://github.com/Huang-lab/AOU_research_primer">AOU Research Primer</a></b><br>
 Huang Lab guide to querying the All of Us data · contributor
 </td>
 <td valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Microbe.webp" width="44" align="left" alt="microbe" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Microbe.webp" width="48" alt="microbe" /><br>
 <b><a href="https://germline-predisposition.vercel.app">Ancestry matters</a></b><br>
 21× BRCA2 enrichment in Black/AA breast cancer vs 10.9× in White
 </td>
@@ -67,4 +67,5 @@ Huang Lab guide to querying the All of Us data · contributor
 ---
 
 Research under Prof. Zeynep Akcay Ozkan through the CUNY Research Scholars Program.
+
 Reach me at mdmohibul.alam87@login.cuny.edu
