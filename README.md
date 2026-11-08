@@ -7,6 +7,8 @@
 I teach computers to read DNA for cancer risk.
 CS undergrad at Queensborough Community College (CUNY), working on ML and computational genomics with the NIH *All of Us* Research Program.
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Deciduous%20Tree.webp" width="22" alt="" /> My life, kept a little at a time: **[mohibulalam.com](https://mohibulalam.com)**
+
 ### What I've built
 
 <table>
