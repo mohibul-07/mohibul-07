@@ -13,6 +13,13 @@ CS undergrad at Queensborough Community College (CUNY), working on ML and comput
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Test%20Tube.webp" width="48" alt="test tube" /><br>
+<b><a href="https://github.com/mohibul-07/aou-germline-penetrance">AoU Germline Penetrance</a></b> · <i>building now</i><br>
+27 cancer genes · ACMG variant classification with fastVEP · carriers, SEER validation and a population-based penetrance draft in <i>All of Us</i> v9 · open source, MIT
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Microscope.webp" width="48" alt="microscope" /><br>
 <b><a href="https://github.com/mohibul-07/Pan-Cancer-Germline-Predisposition">Pan-Cancer Germline</a></b><br>
