@@ -28,7 +28,7 @@ CS undergrad at Queensborough Community College (CUNY), working on ML and comput
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" width="48" alt="rising chart" /><br>
 <b><a href="https://github.com/mohibul-07/colorectal-cancer-risk-prediction">CRC Risk Prediction</a></b><br>
-XGBoost + SHAP on 12,248 patients · AUC 0.898 · <a href="https://colorectal-cancer-risk-prediction.vercel.app">live app</a>
+XGBoost + SHAP on 12,248 patients · AUC 0.8003 after a leakage audit · <a href="https://colorectal-cancer-risk-prediction.vercel.app">live app</a>
 </td>
 </tr>
 <tr>
